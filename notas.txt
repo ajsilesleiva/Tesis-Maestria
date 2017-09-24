@@ -1,0 +1,54 @@
+objetivo gerneral y especificos
+deben alenease con la formulacion del problema y el tema 
+
+deben ir en infinitivos
+el general debe ser amplio
+y el especifico delimitado
+
+cosas que debo manejar de la teoria
+1- origen epistemologico (conocimiento, ¿cuando, quien, investigo, uso, etc, en el pasado?). --facturacion y inventarios, origen, quien, cuando -- woocommerce and wordpress origenes, uso, invencion etc. --uso de tecnologia en nicaragua desde cuando, quienes, ect.  --factibilidad, origenes, uso, invencion etc.
+2- modelos. -- modelos y tipologia de sistemas de facturacion y control de inventarios --descripcion del modelo que se elige --conceptos, etc --
+3- descripcion de un modelo.
+
+para el marco teorico
+
+20 fuentes (tarea)
+
+matriz
+--nombre de la variable, proyecto de prefactibilidad, ¿que es? --conceptualizacion, tambien hay que poner las fuentes, 
+
+dimensiones: 
+1-identificacion
+2-estudio de mercado
+3-estudio tecnico
+4-estudio ambiental
+5-estudio financiero
+6-analisis externo
+
+indicadores:
+1-de la identificacion - nombre, lugar, 
+2-estudio de mercado - oferta, demanda, precio
+3-estudio tecnico - proceso, tecnologia
+4-estudio financiera - van, tir, 
+5-ambiental - impacto
+
+items:(preguntas conforme al indicador)
+1-¿cual es el nombre, donde estara el proyecto?
+2-¿competidores, volumenes, caracteristicas, valor agregado de la competencia
+3-¿Cantidades demandadas, clientes potenciales, demanda ociosa, caracteristicas del cliente, capacidad de compra?
+4-¿procesos fundamentales en esta empresa?¿puntos de control?¿puntos de control?¿cual es la materia prima?
+5-¿cuales son los estados financieros?¿calcular la van?¿razones financieras?
+
+
+fuentes:
+objeto de donde voy a sacar la info
+1-otorgara la info? --¿quien me dara el nombre?
+2-¿quien me da la info de la oferta?
+3-¿quien me da info de los procesos?
+4-¿info de especialista? ¿fuentes internas?
+
+1-marco teorico
+2-con su indice
+3-matriz
+4-objetivos
+5-corregir conforme a recomendaciones?
