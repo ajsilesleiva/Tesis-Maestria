@@ -5,10 +5,20 @@ deben ir en infinitivos
 el general debe ser amplio
 y el especifico delimitado
 
-cosas que debo manejar de la teoria
+--cosas que debo manejar de la teoria
+--definicion de terminos basicos
+--crear los indices
+--idea de crear un mapa conceptual
+
 1- origen epistemologico (conocimiento, ¿cuando, quien, investigo, uso, etc, en el pasado?). --facturacion y inventarios, origen, quien, cuando -- woocommerce and wordpress origenes, uso, invencion etc. --uso de tecnologia en nicaragua desde cuando, quienes, ect.  --factibilidad, origenes, uso, invencion etc.
+--preguntas, hechos, procesos?
+
 2- modelos. -- modelos y tipologia de sistemas de facturacion y control de inventarios --descripcion del modelo que se elige --conceptos, etc --
+
+
 3- descripcion de un modelo.
+
+
 
 para el marco teorico
 
